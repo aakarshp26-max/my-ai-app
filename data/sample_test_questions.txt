@@ -1,0 +1,11 @@
+MUN Command Center — testing checklist
+
+Use these only as example questions. The correct answer depends on the documents you upload.
+
+1. What is the procedure for raising a point of personal privilege?
+2. What is the deadline for submitting a draft resolution?
+3. What are the attendance requirements?
+4. Which committee is assigned to a particular agenda?
+5. What is the venue of the closing ceremony?
+
+For question 5, choose a fact that is not in your uploaded documents. The assistant should say it cannot find the information rather than guessing.
